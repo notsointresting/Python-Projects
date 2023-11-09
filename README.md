@@ -1,2 +1,2 @@
 # Python-Projects
-This repository Contains Projects made in Python.
+This repository contains mini-Projects made in Python.
